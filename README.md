@@ -1,4 +1,5 @@
 # create_express_app
+[![GitHub license](https://img.shields.io/github/license/Souvikns/create_express_app?style=plastic)](https://github.com/Souvikns/create_express_app/blob/master/LICENSE)
  
 This is a CLI program to automate a express app 
 
